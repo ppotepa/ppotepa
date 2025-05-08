@@ -16,12 +16,13 @@ I'm a passionate software developer born and living in Poland.
 
 ---
 
-### 🧰 Tech Interests
-While I work across different technologies, I have a strong preference for:
-- Backend development
-- .NET and C#
-- Clean architecture and maintainable code
-- Systems thinking
+🧑‍💻 Software Engineer | .NET Ecosystem Enthusiast
+⚙️ Crafting scalable systems with C#, ASP.NET Core, and modern web APIs
+☁️ Cloud-native thinker — Azure, Docker, microservices, DevOps pipelines
+🛠️ Advocate for clean architecture, performance, and maintainable code
+🤖 Exploring the AI landscape — from hands-on coding to understanding its broader impact
+🔍 Curious about system design, distributed computing, and emerging tech
+🧠 Lifelong learner | Dabbling in Rust, Go, and automation
 
 ---
 
